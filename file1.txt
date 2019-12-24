@@ -1,4 +1,7 @@
 created first file
 change 1
-fix bug -> line 2
+fix bug1
  change 3 from other team member
+
+change 2
+
