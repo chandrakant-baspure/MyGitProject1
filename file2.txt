@@ -1,3 +1,9 @@
 file is updated for remote team memeber
+
  change 4 ----->
  change 5 -----> remote user
+
+ Change ---> 4
+ Change 5 ---> remote user
+Change 6 ---> on local master 
+ file2 is updated on remote by arrow
